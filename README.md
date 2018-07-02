@@ -1,8 +1,10 @@
 # FCN-in-Pytorch
 Pytorch based implemenatation of Fully Convolutional Networks
 
+Clone this repo and delete the 701_StillsRaw_full of this one, because you will have that when you clone the dataset folder
+
 Firstly for the dataset go to this link: https://github.com/mostafaizz/camvid
-Clone this and it would come in the format of a folder name camvid-master.It would contain the following folders:
+Clone this and unzip it inside the main folder of FCN repo and it would come in the format of a folder name camvid-master.It would contain the following folders:
 1  701_StillsRaw_full
 2  LabelApproved_full
 and two text files namely label_colors.txt and label_colorsSorted.txt
