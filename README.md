@@ -1,5 +1,5 @@
 # FCN-in-Pytorch
-Pytorch based implemenatation of Fully Convolutional Networks
+Pytorch based implementation of Fully Convolutional Networks
 
 Clone this repo and delete the 701_StillsRaw_full of this one, because you will have that when you clone the dataset folder
 
