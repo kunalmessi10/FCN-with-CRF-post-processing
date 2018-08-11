@@ -18,7 +18,7 @@ Dataset contains the following files:
 4  label_colorsSorted.txt
 
 Preprocessing
-''' bash
+'''bash
 $ python camvid_utils.py
 ''' 
 
