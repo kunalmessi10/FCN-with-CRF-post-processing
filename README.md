@@ -11,6 +11,7 @@ Pytorch based implementation of [Fully Convolutional Networks for Semantic Segme
 7. scikit-learn
 
 Download the dataset from this link and place it in the main directory: https://github.com/mostafaizz/camvid .
+
 Dataset contains the following files:
 1.  701_StillsRaw_full
 2. LabelApproved_full
@@ -29,7 +30,10 @@ Training
 ```python
 python camvid_train.py
 ``` 
-Training Results
+Metric: Average IOU
+
+Training Results:
+
 Coming Soon!!
 
 
