@@ -12,10 +12,10 @@ Pytorch based implementation of [Fully Convolutional Networks for Semantic Segme
 
 Download the dataset from this link and place it in the main repository: https://github.com/mostafaizz/camvid
 Dataset contains the following files:
-1  701_StillsRaw_full
-2  LabelApproved_full
-3  label_colors.txt  
-4  label_colorsSorted.txt
+1.  701_StillsRaw_full
+2. LabelApproved_full
+3.  label_colors.txt  
+4.  label_colorsSorted.txt
 
 Preprocessing
 
