@@ -18,9 +18,15 @@ Dataset contains the following files:
 4  label_colorsSorted.txt
 
 Preprocessing
-'''bash
-$ python camvid_utils.py
-''' 
+
+```python
+python camvid_utils.py
+``` 
+Training
+
+```python
+python camvid_train.py
+``` 
 
 Now first run the file camvid_utils first.
 It will create a folder in the directory which contains the above folders,a directory named Labeled_idx which would contain the 32 label encoded numpy vectors.
