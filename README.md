@@ -22,15 +22,14 @@ Preprocessing
 ```python
 python camvid_utils.py
 ``` 
+It will create a folder in the directory which contains the above folders,a directory named Labeled_idx which would contain the 32 label encoded numpy vectors.
+
 Training
 
 ```python
 python camvid_train.py
 ``` 
-
-Now first run the file camvid_utils first.
-It will create a folder in the directory which contains the above folders,a directory named Labeled_idx which would contain the 32 label encoded numpy vectors.
-
-After this run the camvid_train.py and the model will start training.
+Training Results
+Coming Soon!!
 
 
