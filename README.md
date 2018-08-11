@@ -1,4 +1,4 @@
-# FCN-in-Pytorch
+# Fully Convolutional Network with CRF postprocessing in Pytorch 
 Pytorch based implementation of [Fully Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1411.4038) CVPR'15 paper.
 
 ## Requirements
