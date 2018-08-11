@@ -10,7 +10,7 @@ Pytorch based implementation of [Fully Convolutional Networks for Semantic Segme
 6. scikit-image
 7. scikit-learn
 
-Download the dataset from this link and place it in the main repository: https://github.com/mostafaizz/camvid
+Download the dataset from this link and place it in the main directory: https://github.com/mostafaizz/camvid .
 Dataset contains the following files:
 1.  701_StillsRaw_full
 2. LabelApproved_full
